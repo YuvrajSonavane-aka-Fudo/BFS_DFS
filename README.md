@@ -1,11 +1,11 @@
 <div align="center">
-<img style="vertical-align: -12px" src="./public/app-logo.png" width="50" height="50" />
+
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap" rel="stylesheet">
 <span style="font-family: 'Black Ops One'; font-size: 40px;" >Algo-Visualizer </span>
-<a href="https://algo-visualizer-f76e9.web.app/" style="font-size: 25px">[Visit]</a>
+
 </div>
 
 ---
